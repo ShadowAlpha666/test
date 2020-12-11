@@ -1,0 +1,10 @@
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShadowAlpha666/test.git
+git push -u origin main
+                
+                
+                Nzg2ODQyODI2MzI2ODAyNDQz.X9MSfA.GUOsYfY59qMsom_5XtuNgalrXHc
